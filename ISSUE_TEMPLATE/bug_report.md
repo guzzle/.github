@@ -1,3 +1,8 @@
+---
+name: 🐛 Bug Report
+about: Report errors and problems
+---
+
 **PHP version**: x.y.z (hint: `php --version`)
 
 **Description**
