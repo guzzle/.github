@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: 📚 Documentation
+    url: http://docs.guzzlephp.org
+
   - name: ❓Support
     url: https://git.io/guzzle-support
     about: We use GitHub issues only to discuss bugs and new features.
