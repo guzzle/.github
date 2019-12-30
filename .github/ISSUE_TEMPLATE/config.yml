@@ -1,7 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: 📚 Documentation
+  - name: 📚Documentation
     url: http://docs.guzzlephp.org
+    about: Check the FAQ first.
 
   - name: ❓Support
     url: https://git.io/guzzle-support
